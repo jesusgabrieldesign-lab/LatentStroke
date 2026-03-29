@@ -20,5 +20,8 @@ I bridge the gap between human creativity and autonomous technology.
 ---
 
 ### 📬 Connect with me
-- **Portfolio:** [creativosenaccion.github.io](https://creativosenaccion.github.io)
+- **Sonic Layers:**
+When I'm not designing systems or sketching, I'm composing. My multidisciplinary approach to life through sound:
+FIRE655 de G51 en #SoundCloud
+[https://on.soundcloud.com/UjJaHQdHiYM7bO93RX]
 - **Focus:** AI Orchestration | Emotional Wellbeing | Visual Design
